@@ -1,0 +1,18 @@
+{
+    "name": "abulhasanaunshon/aun-pro",
+    "type": "wordpress-plugin",
+    "license": "Gpl2",
+    "autoload": {
+        "psr-4": {
+            "AunPro\\": "includes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aunshon",
+            "email": "32583103+Aunshon@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
